@@ -1,0 +1,76 @@
+{
+  "foods": [
+    {
+      "url": "asd",
+      "price": "10 TL",
+      "title": "Makarna",
+      "owner": "Kağan Kabayel",
+      "date": "2019-02-0623:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "20 TL",
+      "title": "Menemen",
+      "owner": "Yasemin Üçtaş",
+      "date": "2019-01-0620:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "52 TL",
+      "title": "T-Bone",
+      "owner": "Elçin Akalay",
+      "date": "2019-02-0823:20:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "26 TL",
+      "title": "Pizza",
+      "owner": "Tuğba Gül",
+      "date": "2018-01-1616:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "33 TL",
+      "title": "Karnuc0u305 yaru305 k",
+      "owner": "Arif Yılmaz",
+      "date": "2018-11-0312:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "30 TL",
+      "title": "H'fcnkar yemek",
+      "owner": "George Hagi",
+      "date": "2019-02-0610:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "15 TL",
+      "title": "Yaprak sarma",
+      "owner": "Pınar Kabayel",
+      "date": "2019-01-0118:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "50 TL",
+      "title": "Mantuc0u305 ",
+      "owner": "Yunus Toprak",
+      "date": "2018-01-0620:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "url": "asd",
+      "price": "7 TL",
+      "title": "Pilav",
+      "owner": "Chad Smith",
+      "date": "2019-02-0614:00:00+0000",
+      "receipe": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ]
+}
